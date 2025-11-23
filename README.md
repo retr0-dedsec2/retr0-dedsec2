@@ -4,7 +4,7 @@
 <div align="center">
   <!-- Titre principal -->
   <h1 style="font-size: 40px; margin-bottom: 5px;">
-    👾 Hey, moi c'est <span style="color:#4CAF50;">Gabin</span>
+    👾 Hey, moi c'est <span style="color:#4CAF50;">g4B1n</span>
   </h1>
   <h3 style="font-weight: normal; margin-top: 0;">
     Étudiant · Développeur · Passionné de cybersécurité & dev outillage
@@ -49,6 +49,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=html&logoColor=white" />
 </p>
 
 <h3>Outils & DevOps</h3>
