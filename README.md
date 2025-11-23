@@ -1,4 +1,4 @@
-# 👾 Retr0-Dedsec2
+<img width="676" height="352" alt="image" src="https://github.com/user-attachments/assets/d4abca48-e5a3-4907-be12-f7da7df1c8a3" /># 👾 Retr0-Dedsec2
 **'Developer and Cybersecurity Enginerring'**
 
 <div align="center">
@@ -80,6 +80,11 @@
 <!-- Stats GitHub (remplace "retr0-dedsec2" par ton pseudo) -->
 <h2>📈 Statistiques GitHub</h2>
 <p>
+  <img
+    src="blob:null/649b02b5-c21a-4c2f-a405-4954ee09d244"
+    alt="stats"
+    height="165"
+  />
   <img 
     src="https://github-readme-stats.vercel.app/api?username=retr0-dedsec2&show_icons=true&theme=radical" 
     alt="GitHub Stats" 
